@@ -1,0 +1,13 @@
+diff --git a/node_modules/expo-modules-core/build/SyntheticPlatformEmitter.web.js b/node_modules/expo-modules-core/build/SyntheticPlatformEmitter.web.js
+index dc5f5a5..065806e 100644
+--- a/node_modules/expo-modules-core/build/SyntheticPlatformEmitter.web.js
++++ b/node_modules/expo-modules-core/build/SyntheticPlatformEmitter.web.js
+@@ -1,6 +1,6 @@
+-/**
++\/**
+  * This emitter is used for sending synthetic native events to listeners
+  * registered in the API layer with `NativeEventEmitter`.
+  */
+-export { default } from 'react-native-web/dist/vendor/react-native/NativeEventEmitter/RCTDeviceEventEmitter';
++export default {};
+ //# sourceMappingURL=SyntheticPlatformEmitter.web.js.map
